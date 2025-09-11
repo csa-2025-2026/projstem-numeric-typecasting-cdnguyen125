@@ -2,6 +2,7 @@ public class Problem1
 {
   public static void main(String[] args)
   {
-    // insert code here
+    double x = (double)5/20;
+    System.out.println(x);
   }
 }
